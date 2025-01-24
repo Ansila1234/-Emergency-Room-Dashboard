@@ -1,6 +1,8 @@
 # Hospital Emergency Room (ER) Visits Dashboard
 This repository contains a Power BI dashboard that visualizes data related to hospital emergency room (ER) visits. The dashboard provides a comprehensive overview of patient visits, wait times, satisfaction scores, and demographic breakdowns, helping hospital administrators make data-driven decisions to improve patient care and operational efficiency.
 
+[Link to Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmM5MDYwZDMtZjM0YS00MWZhLWE1NDgtOGMyNjlkMDQwYWIyIiwidCI6ImU5ODE4OTYxLTJkN2QtNGMwYS05ZGQ1LTI1MmRiYmM2ZWNkZiJ9)
+
 ## Project Overview
 The Hospital ER Visits Dashboard aims to give a detailed view of various metrics related to emergency room operations. By analyzing patient visits, wait times, and satisfaction scores across different demographics, the dashboard provides actionable insights for healthcare professionals.
 
